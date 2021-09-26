@@ -1,0 +1,20 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.headings{
+  background-color: #134f5c;
+  color: white;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.welcome{
+  color: #134f5c;
+  font-weight: bolder;
+  text-align: center;
+  padding-top: 150px;
+
+}
+.btn-icon{
+  text-align: center;
+}
